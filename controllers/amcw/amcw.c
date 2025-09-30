@@ -19,7 +19,7 @@
  *              It is also possible to move the robot with the keyboard arrows.
  */
 
-#include <math.h>
+#include <math.h> /*######*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <webots/camera.h>
@@ -110,3 +110,4 @@ int main(int argc, char **argv) {
   wb_robot_cleanup();
   return 0;
 }
+
