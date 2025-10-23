@@ -12,7 +12,7 @@
  * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
  * See the License for the specific language governing permissions and
  * limitations under the License.
- */
+ *///*
 
 /*
  * Description: Simple controller to make an "Hello" mouvement.
@@ -110,4 +110,5 @@ int main(int argc, char **argv) {
   wb_robot_cleanup();
   return 0;
 }
+
 
